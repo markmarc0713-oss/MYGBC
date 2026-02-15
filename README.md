@@ -11,4 +11,4 @@ GBC email:
 Liang.Zhang@georgebrown.ca
 
 Your personal repo URL:  
-https://github.com/your_user_name/your_repo_name/ 
+https://github.com/markmarc0713-oss/MYGBC
